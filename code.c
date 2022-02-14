@@ -1,25 +1,3 @@
-Open (1).c
-Chi ha accesso
-Non condiviso
-Proprietà di sistema
-Tipo
-C
-Dimensioni
-11 kB
-Spazio di archiviazione utilizzato
-11 kB
-Posizione
-Backup progetto API
-Proprietario
-io
-Data modifica
-2 set 2021 da me
-Aperto
-19:05 da me
-Data creazione
-8 ott 2021 con Google Drive Web
-Aggiungi una descrizione
-I visualizzatori possono scaricare
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
