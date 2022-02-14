@@ -3,6 +3,7 @@ Uni assignment relative to the algorithm and data structures course @ Politecnic
 
 Structure used:
   - heaps
+
 Main algorithm used: 
   - dijkstra
 
